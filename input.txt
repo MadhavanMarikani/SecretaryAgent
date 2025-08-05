@@ -1,0 +1,14 @@
+I want to create an secretary AI agent and i want to add these features 
+Email alerts for specific senders
+
+Emergency email alerts
+
+Automatic reply draft generator
+
+Meeting reminders (calender)
+
+Summary of emails
+
+Morning briefing 
+
+Frontend : react and Backend : Python
